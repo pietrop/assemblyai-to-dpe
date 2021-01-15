@@ -7,6 +7,8 @@ Node module to convert from assemblyAI STT json to [DPE json format](https://git
 It can convert AssemblyAI results, with or without speaker `utterances`.
 If speaker `utterances` are not present, it uses punctuation to create the paragraphs.
 
+on [npm as @pietrop/assemblyai-to-dpe](https://www.npmjs.com/package/@pietrop/assemblyai-to-dpe)
+
 ## Setup
 
 <!-- _stack - optional_
