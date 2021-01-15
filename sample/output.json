@@ -1,0 +1,1679 @@
+{
+  "words": [
+    {
+      "id": 0,
+      "text": "Good",
+      "start": 0,
+      "end": 0.44
+    },
+    {
+      "id": 1,
+      "text": "day,",
+      "start": 0.4,
+      "end": 0.54
+    },
+    {
+      "id": 2,
+      "text": "everyone.",
+      "start": 0.5,
+      "end": 0.76
+    },
+    {
+      "id": 3,
+      "text": "Welcome",
+      "start": 0.72,
+      "end": 1.02
+    },
+    {
+      "id": 4,
+      "text": "to",
+      "start": 1,
+      "end": 1.1
+    },
+    {
+      "id": 5,
+      "text": "the",
+      "start": 1.08,
+      "end": 1.24
+    },
+    {
+      "id": 6,
+      "text": "Apple",
+      "start": 1.2,
+      "end": 1.42
+    },
+    {
+      "id": 7,
+      "text": "incorporated.",
+      "start": 1.38,
+      "end": 1.84
+    },
+    {
+      "id": 8,
+      "text": "Fourth",
+      "start": 1.82,
+      "end": 2.08
+    },
+    {
+      "id": 9,
+      "text": "quarter",
+      "start": 2.04,
+      "end": 2.26
+    },
+    {
+      "id": 10,
+      "text": "fiscal",
+      "start": 2.24,
+      "end": 2.54
+    },
+    {
+      "id": 11,
+      "text": "year,",
+      "start": 2.5,
+      "end": 2.68
+    },
+    {
+      "id": 12,
+      "text": "2,019",
+      "start": 2.64,
+      "end": 3.36
+    },
+    {
+      "id": 13,
+      "text": "earnings",
+      "start": 3.32,
+      "end": 3.58
+    },
+    {
+      "id": 14,
+      "text": "conference",
+      "start": 3.56,
+      "end": 3.88
+    },
+    {
+      "id": 15,
+      "text": "call",
+      "start": 3.86,
+      "end": 4.06
+    },
+    {
+      "id": 16,
+      "text": "today's",
+      "start": 4.02,
+      "end": 4.48
+    },
+    {
+      "id": 17,
+      "text": "call",
+      "start": 4.44,
+      "end": 4.64
+    },
+    {
+      "id": 18,
+      "text": "is",
+      "start": 4.6,
+      "end": 4.74
+    },
+    {
+      "id": 19,
+      "text": "being",
+      "start": 4.72,
+      "end": 4.94
+    },
+    {
+      "id": 20,
+      "text": "recorded",
+      "start": 4.9,
+      "end": 5.18
+    },
+    {
+      "id": 21,
+      "text": "at",
+      "start": 7.92,
+      "end": 8.06
+    },
+    {
+      "id": 22,
+      "text": "this",
+      "start": 8.12,
+      "end": 8.3
+    },
+    {
+      "id": 23,
+      "text": "time",
+      "start": 8.26,
+      "end": 8.42
+    },
+    {
+      "id": 24,
+      "text": "for",
+      "start": 8.38,
+      "end": 8.52
+    },
+    {
+      "id": 25,
+      "text": "opening",
+      "start": 8.48,
+      "end": 8.72
+    },
+    {
+      "id": 26,
+      "text": "remarks.",
+      "start": 8.68,
+      "end": 8.92
+    },
+    {
+      "id": 27,
+      "text": "And",
+      "start": 8.88,
+      "end": 9.04
+    },
+    {
+      "id": 28,
+      "text": "Introductions",
+      "start": 9,
+      "end": 9.36
+    },
+    {
+      "id": 29,
+      "text": "I'd",
+      "start": 9.32,
+      "end": 9.54
+    },
+    {
+      "id": 30,
+      "text": "like",
+      "start": 9.5,
+      "end": 9.66
+    },
+    {
+      "id": 31,
+      "text": "to",
+      "start": 9.62,
+      "end": 9.72
+    },
+    {
+      "id": 32,
+      "text": "turn",
+      "start": 9.7,
+      "end": 9.84
+    },
+    {
+      "id": 33,
+      "text": "the",
+      "start": 9.8,
+      "end": 9.94
+    },
+    {
+      "id": 34,
+      "text": "call",
+      "start": 9.9,
+      "end": 10.08
+    },
+    {
+      "id": 35,
+      "text": "over",
+      "start": 10.04,
+      "end": 10.2
+    },
+    {
+      "id": 36,
+      "text": "to",
+      "start": 10.16,
+      "end": 10.28
+    },
+    {
+      "id": 37,
+      "text": "Nancy",
+      "start": 10.24,
+      "end": 10.56
+    },
+    {
+      "id": 38,
+      "text": "Paxton.",
+      "start": 10.54,
+      "end": 10.86
+    },
+    {
+      "id": 39,
+      "text": "Senior",
+      "start": 10.82,
+      "end": 11.22
+    },
+    {
+      "id": 40,
+      "text": "director",
+      "start": 11.2,
+      "end": 11.5
+    },
+    {
+      "id": 41,
+      "text": "of",
+      "start": 11.46,
+      "end": 11.56
+    },
+    {
+      "id": 42,
+      "text": "investor",
+      "start": 11.54,
+      "end": 11.84
+    },
+    {
+      "id": 43,
+      "text": "relations,",
+      "start": 11.8,
+      "end": 12.1
+    },
+    {
+      "id": 44,
+      "text": "please",
+      "start": 12.06,
+      "end": 12.38
+    },
+    {
+      "id": 45,
+      "text": "go",
+      "start": 12.34,
+      "end": 12.46
+    },
+    {
+      "id": 46,
+      "text": "ahead.",
+      "start": 12.42,
+      "end": 12.6
+    },
+    {
+      "id": 47,
+      "text": "Thank",
+      "start": 15.18,
+      "end": 15.6
+    },
+    {
+      "id": 48,
+      "text": "you,",
+      "start": 15.56,
+      "end": 15.72
+    },
+    {
+      "id": 49,
+      "text": "good",
+      "start": 15.68,
+      "end": 15.94
+    },
+    {
+      "id": 50,
+      "text": "afternoon.",
+      "start": 15.9,
+      "end": 16.26
+    },
+    {
+      "id": 51,
+      "text": "And",
+      "start": 16.24,
+      "end": 16.46
+    },
+    {
+      "id": 52,
+      "text": "thanks",
+      "start": 16.42,
+      "end": 16.64
+    },
+    {
+      "id": 53,
+      "text": "to",
+      "start": 16.6,
+      "end": 16.76
+    },
+    {
+      "id": 54,
+      "text": "everyone",
+      "start": 16.72,
+      "end": 17.02
+    },
+    {
+      "id": 55,
+      "text": "for",
+      "start": 16.98,
+      "end": 17.14
+    },
+    {
+      "id": 56,
+      "text": "joining",
+      "start": 17.1,
+      "end": 17.36
+    },
+    {
+      "id": 57,
+      "text": "us",
+      "start": 17.32,
+      "end": 17.42
+    },
+    {
+      "id": 58,
+      "text": "speaking",
+      "start": 18.7,
+      "end": 19.32
+    },
+    {
+      "id": 59,
+      "text": "first",
+      "start": 19.28,
+      "end": 19.5
+    },
+    {
+      "id": 60,
+      "text": "today",
+      "start": 19.46,
+      "end": 19.74
+    },
+    {
+      "id": 61,
+      "text": "is",
+      "start": 19.7,
+      "end": 19.9
+    },
+    {
+      "id": 62,
+      "text": "Apple",
+      "start": 19.88,
+      "end": 20.14
+    },
+    {
+      "id": 63,
+      "text": "CEO",
+      "start": 20.16,
+      "end": 20.4
+    },
+    {
+      "id": 64,
+      "text": "Tim",
+      "start": 20.46,
+      "end": 20.62
+    },
+    {
+      "id": 65,
+      "text": "Cook",
+      "start": 20.62,
+      "end": 20.82
+    },
+    {
+      "id": 66,
+      "text": "and",
+      "start": 22.08,
+      "end": 22.34
+    },
+    {
+      "id": 67,
+      "text": "he'll",
+      "start": 22.32,
+      "end": 22.6
+    },
+    {
+      "id": 68,
+      "text": "be",
+      "start": 22.56,
+      "end": 22.66
+    },
+    {
+      "id": 69,
+      "text": "followed",
+      "start": 22.62,
+      "end": 22.92
+    },
+    {
+      "id": 70,
+      "text": "by",
+      "start": 22.9,
+      "end": 23
+    },
+    {
+      "id": 71,
+      "text": "CFO",
+      "start": 22.98,
+      "end": 23.3
+    },
+    {
+      "id": 72,
+      "text": "Luca",
+      "start": 23.36,
+      "end": 23.56
+    },
+    {
+      "id": 73,
+      "text": "Maestri",
+      "start": 23.58,
+      "end": 24.12
+    },
+    {
+      "id": 74,
+      "text": "and",
+      "start": 24.08,
+      "end": 24.22
+    },
+    {
+      "id": 75,
+      "text": "after",
+      "start": 24.18,
+      "end": 24.4
+    },
+    {
+      "id": 76,
+      "text": "that",
+      "start": 24.38,
+      "end": 24.54
+    },
+    {
+      "id": 77,
+      "text": "we'll",
+      "start": 24.5,
+      "end": 24.78
+    },
+    {
+      "id": 78,
+      "text": "open",
+      "start": 24.74,
+      "end": 24.92
+    },
+    {
+      "id": 79,
+      "text": "the",
+      "start": 24.88,
+      "end": 25.02
+    },
+    {
+      "id": 80,
+      "text": "call",
+      "start": 24.98,
+      "end": 25.16
+    },
+    {
+      "id": 81,
+      "text": "to",
+      "start": 25.14,
+      "end": 25.28
+    },
+    {
+      "id": 82,
+      "text": "questions",
+      "start": 25.26,
+      "end": 25.6
+    },
+    {
+      "id": 83,
+      "text": "from",
+      "start": 25.58,
+      "end": 25.76
+    },
+    {
+      "id": 84,
+      "text": "analysts.",
+      "start": 25.74,
+      "end": 26.1
+    },
+    {
+      "id": 85,
+      "text": "Please",
+      "start": 28.44,
+      "end": 29.1
+    },
+    {
+      "id": 86,
+      "text": "note",
+      "start": 29.06,
+      "end": 29.24
+    },
+    {
+      "id": 87,
+      "text": "that",
+      "start": 29.2,
+      "end": 29.4
+    },
+    {
+      "id": 88,
+      "text": "some",
+      "start": 29.36,
+      "end": 29.5
+    },
+    {
+      "id": 89,
+      "text": "of",
+      "start": 29.48,
+      "end": 29.58
+    },
+    {
+      "id": 90,
+      "text": "the",
+      "start": 29.54,
+      "end": 29.68
+    },
+    {
+      "id": 91,
+      "text": "information",
+      "start": 29.64,
+      "end": 29.94
+    },
+    {
+      "id": 92,
+      "text": "you'll",
+      "start": 29.9,
+      "end": 30.16
+    },
+    {
+      "id": 93,
+      "text": "hear",
+      "start": 30.12,
+      "end": 30.26
+    },
+    {
+      "id": 94,
+      "text": "during",
+      "start": 30.22,
+      "end": 30.42
+    },
+    {
+      "id": 95,
+      "text": "our",
+      "start": 30.4,
+      "end": 30.54
+    },
+    {
+      "id": 96,
+      "text": "discussion",
+      "start": 30.54,
+      "end": 30.92
+    },
+    {
+      "id": 97,
+      "text": "today",
+      "start": 30.88,
+      "end": 31.06
+    },
+    {
+      "id": 98,
+      "text": "will",
+      "start": 31.04,
+      "end": 31.26
+    },
+    {
+      "id": 99,
+      "text": "consist",
+      "start": 31.22,
+      "end": 31.46
+    },
+    {
+      "id": 100,
+      "text": "of",
+      "start": 31.42,
+      "end": 31.52
+    },
+    {
+      "id": 101,
+      "text": "Forwardlooking",
+      "start": 31.5,
+      "end": 32.02
+    },
+    {
+      "id": 102,
+      "text": "statements,",
+      "start": 31.98,
+      "end": 32.34
+    },
+    {
+      "id": 103,
+      "text": "including",
+      "start": 32.32,
+      "end": 32.78
+    },
+    {
+      "id": 104,
+      "text": "without",
+      "start": 32.74,
+      "end": 33.04
+    },
+    {
+      "id": 105,
+      "text": "limitation.",
+      "start": 33,
+      "end": 33.44
+    },
+    {
+      "id": 106,
+      "text": "Those",
+      "start": 33.4,
+      "end": 33.78
+    },
+    {
+      "id": 107,
+      "text": "regarding",
+      "start": 33.74,
+      "end": 34.12
+    },
+    {
+      "id": 108,
+      "text": "revenue",
+      "start": 34.08,
+      "end": 34.4
+    },
+    {
+      "id": 109,
+      "text": "gross",
+      "start": 34.4,
+      "end": 34.74
+    },
+    {
+      "id": 110,
+      "text": "margin",
+      "start": 34.72,
+      "end": 34.96
+    },
+    {
+      "id": 111,
+      "text": "operating",
+      "start": 38.6,
+      "end": 39.1
+    },
+    {
+      "id": 112,
+      "text": "expenses,",
+      "start": 39.06,
+      "end": 39.4
+    },
+    {
+      "id": 113,
+      "text": "other",
+      "start": 39.36,
+      "end": 39.76
+    },
+    {
+      "id": 114,
+      "text": "income",
+      "start": 39.72,
+      "end": 39.96
+    },
+    {
+      "id": 115,
+      "text": "and",
+      "start": 39.92,
+      "end": 40.06
+    },
+    {
+      "id": 116,
+      "text": "expense",
+      "start": 40.02,
+      "end": 40.3
+    },
+    {
+      "id": 117,
+      "text": "taxes,",
+      "start": 40.28,
+      "end": 40.78
+    },
+    {
+      "id": 118,
+      "text": "capital",
+      "start": 40.76,
+      "end": 41.26
+    },
+    {
+      "id": 119,
+      "text": "allocation",
+      "start": 41.24,
+      "end": 41.66
+    },
+    {
+      "id": 120,
+      "text": "and",
+      "start": 41.62,
+      "end": 41.86
+    },
+    {
+      "id": 121,
+      "text": "future",
+      "start": 41.82,
+      "end": 42.1
+    },
+    {
+      "id": 122,
+      "text": "business",
+      "start": 42.08,
+      "end": 42.38
+    },
+    {
+      "id": 123,
+      "text": "outlook",
+      "start": 42.34,
+      "end": 42.62
+    },
+    {
+      "id": 124,
+      "text": "actual",
+      "start": 44.78,
+      "end": 45.68
+    },
+    {
+      "id": 125,
+      "text": "results",
+      "start": 45.64,
+      "end": 45.98
+    },
+    {
+      "id": 126,
+      "text": "or",
+      "start": 45.96,
+      "end": 46.08
+    },
+    {
+      "id": 127,
+      "text": "trends",
+      "start": 46.08,
+      "end": 46.34
+    },
+    {
+      "id": 128,
+      "text": "could",
+      "start": 46.32,
+      "end": 46.52
+    },
+    {
+      "id": 129,
+      "text": "differ",
+      "start": 46.48,
+      "end": 46.7
+    },
+    {
+      "id": 130,
+      "text": "materially",
+      "start": 46.66,
+      "end": 47.08
+    },
+    {
+      "id": 131,
+      "text": "from",
+      "start": 47.04,
+      "end": 47.22
+    },
+    {
+      "id": 132,
+      "text": "our",
+      "start": 47.18,
+      "end": 47.32
+    },
+    {
+      "id": 133,
+      "text": "forecasts.",
+      "start": 47.28,
+      "end": 47.6
+    },
+    {
+      "id": 134,
+      "text": "For",
+      "start": 49.32,
+      "end": 49.88
+    },
+    {
+      "id": 135,
+      "text": "more",
+      "start": 49.84,
+      "end": 50.02
+    },
+    {
+      "id": 136,
+      "text": "information,",
+      "start": 49.98,
+      "end": 50.34
+    },
+    {
+      "id": 137,
+      "text": "please",
+      "start": 50.3,
+      "end": 50.54
+    },
+    {
+      "id": 138,
+      "text": "refer",
+      "start": 50.52,
+      "end": 50.76
+    },
+    {
+      "id": 139,
+      "text": "to",
+      "start": 50.72,
+      "end": 50.82
+    },
+    {
+      "id": 140,
+      "text": "the",
+      "start": 50.8,
+      "end": 51.02
+    },
+    {
+      "id": 141,
+      "text": "risk.",
+      "start": 51,
+      "end": 51.16
+    },
+    {
+      "id": 142,
+      "text": "Factors",
+      "start": 51.14,
+      "end": 51.52
+    },
+    {
+      "id": 143,
+      "text": "discussed",
+      "start": 51.5,
+      "end": 51.88
+    },
+    {
+      "id": 144,
+      "text": "in",
+      "start": 51.86,
+      "end": 51.96
+    },
+    {
+      "id": 145,
+      "text": "Apple's",
+      "start": 51.96,
+      "end": 52.26
+    },
+    {
+      "id": 146,
+      "text": "most",
+      "start": 52.24,
+      "end": 52.4
+    },
+    {
+      "id": 147,
+      "text": "recently",
+      "start": 52.38,
+      "end": 52.68
+    },
+    {
+      "id": 148,
+      "text": "filed",
+      "start": 52.64,
+      "end": 52.88
+    },
+    {
+      "id": 149,
+      "text": "periodic",
+      "start": 52.86,
+      "end": 53.24
+    },
+    {
+      "id": 150,
+      "text": "reports",
+      "start": 53.2,
+      "end": 53.52
+    },
+    {
+      "id": 151,
+      "text": "on",
+      "start": 53.5,
+      "end": 53.64
+    },
+    {
+      "id": 152,
+      "text": "form",
+      "start": 53.6,
+      "end": 53.8
+    },
+    {
+      "id": 153,
+      "text": "10",
+      "start": 53.78,
+      "end": 53.98
+    },
+    {
+      "id": 154,
+      "text": "K",
+      "start": 53.98,
+      "end": 54.06
+    },
+    {
+      "id": 155,
+      "text": "and",
+      "start": 54.08,
+      "end": 54.42
+    },
+    {
+      "id": 156,
+      "text": "form",
+      "start": 54.4,
+      "end": 54.62
+    },
+    {
+      "id": 157,
+      "text": "10",
+      "start": 54.58,
+      "end": 54.8
+    },
+    {
+      "id": 158,
+      "text": "Q.",
+      "start": 54.82,
+      "end": 54.88
+    },
+    {
+      "id": 159,
+      "text": "And",
+      "start": 58.32,
+      "end": 58.62
+    },
+    {
+      "id": 160,
+      "text": "the",
+      "start": 58.58,
+      "end": 58.72
+    },
+    {
+      "id": 161,
+      "text": "form",
+      "start": 58.68,
+      "end": 58.86
+    },
+    {
+      "id": 162,
+      "text": "eight",
+      "start": 58.82,
+      "end": 59.08
+    },
+    {
+      "id": 163,
+      "text": "K",
+      "start": 59.08,
+      "end": 59.16
+    },
+    {
+      "id": 164,
+      "text": "filed",
+      "start": 59.16,
+      "end": 59.5
+    },
+    {
+      "id": 165,
+      "text": "with",
+      "start": 59.48,
+      "end": 59.68
+    },
+    {
+      "id": 166,
+      "text": "the",
+      "start": 59.64,
+      "end": 59.78
+    },
+    {
+      "id": 167,
+      "text": "SEC",
+      "start": 59.74,
+      "end": 59.94
+    },
+    {
+      "id": 168,
+      "text": "today.",
+      "start": 59.98,
+      "end": 60.26
+    },
+    {
+      "id": 169,
+      "text": "Along",
+      "start": 60.24,
+      "end": 60.62
+    },
+    {
+      "id": 170,
+      "text": "with",
+      "start": 60.58,
+      "end": 60.76
+    },
+    {
+      "id": 171,
+      "text": "the",
+      "start": 60.74,
+      "end": 60.88
+    },
+    {
+      "id": 172,
+      "text": "Associated",
+      "start": 60.84,
+      "end": 61.22
+    },
+    {
+      "id": 173,
+      "text": "Press",
+      "start": 61.2,
+      "end": 61.42
+    },
+    {
+      "id": 174,
+      "text": "release",
+      "start": 61.4,
+      "end": 61.7
+    },
+    {
+      "id": 175,
+      "text": "Apple",
+      "start": 61.68,
+      "end": 62.4
+    },
+    {
+      "id": 176,
+      "text": "assumes",
+      "start": 62.38,
+      "end": 62.66
+    },
+    {
+      "id": 177,
+      "text": "no",
+      "start": 62.64,
+      "end": 62.82
+    },
+    {
+      "id": 178,
+      "text": "obligation",
+      "start": 62.78,
+      "end": 63.24
+    },
+    {
+      "id": 179,
+      "text": "to",
+      "start": 63.2,
+      "end": 63.34
+    },
+    {
+      "id": 180,
+      "text": "update",
+      "start": 63.3,
+      "end": 63.56
+    },
+    {
+      "id": 181,
+      "text": "any",
+      "start": 63.52,
+      "end": 63.7
+    },
+    {
+      "id": 182,
+      "text": "forward",
+      "start": 63.68,
+      "end": 63.96
+    },
+    {
+      "id": 183,
+      "text": "looking",
+      "start": 63.92,
+      "end": 64.2
+    },
+    {
+      "id": 184,
+      "text": "statements",
+      "start": 64.16,
+      "end": 64.46
+    },
+    {
+      "id": 185,
+      "text": "or",
+      "start": 64.42,
+      "end": 64.56
+    },
+    {
+      "id": 186,
+      "text": "information",
+      "start": 64.52,
+      "end": 64.88
+    },
+    {
+      "id": 187,
+      "text": "which",
+      "start": 68.38,
+      "end": 68.76
+    },
+    {
+      "id": 188,
+      "text": "speak",
+      "start": 68.72,
+      "end": 69
+    },
+    {
+      "id": 189,
+      "text": "as",
+      "start": 68.96,
+      "end": 69.16
+    },
+    {
+      "id": 190,
+      "text": "of",
+      "start": 69.14,
+      "end": 69.24
+    },
+    {
+      "id": 191,
+      "text": "their",
+      "start": 69.28,
+      "end": 69.48
+    },
+    {
+      "id": 192,
+      "text": "respective",
+      "start": 69.44,
+      "end": 69.86
+    },
+    {
+      "id": 193,
+      "text": "dates.",
+      "start": 69.82,
+      "end": 70.04
+    },
+    {
+      "id": 194,
+      "text": "I'd",
+      "start": 71.32,
+      "end": 71.76
+    },
+    {
+      "id": 195,
+      "text": "now,",
+      "start": 71.74,
+      "end": 71.88
+    },
+    {
+      "id": 196,
+      "text": "like",
+      "start": 71.84,
+      "end": 72.02
+    },
+    {
+      "id": 197,
+      "text": "to",
+      "start": 72,
+      "end": 72.1
+    },
+    {
+      "id": 198,
+      "text": "turn",
+      "start": 72.08,
+      "end": 72.26
+    },
+    {
+      "id": 199,
+      "text": "the",
+      "start": 72.24,
+      "end": 72.4
+    },
+    {
+      "id": 200,
+      "text": "call",
+      "start": 72.36,
+      "end": 72.52
+    },
+    {
+      "id": 201,
+      "text": "over",
+      "start": 72.5,
+      "end": 72.68
+    },
+    {
+      "id": 202,
+      "text": "to",
+      "start": 72.66,
+      "end": 72.76
+    },
+    {
+      "id": 203,
+      "text": "Tim",
+      "start": 72.74,
+      "end": 72.94
+    },
+    {
+      "id": 204,
+      "text": "for",
+      "start": 73,
+      "end": 73.16
+    },
+    {
+      "id": 205,
+      "text": "introductory",
+      "start": 73.12,
+      "end": 73.62
+    },
+    {
+      "id": 206,
+      "text": "remarks.",
+      "start": 73.62,
+      "end": 73.94
+    },
+    {
+      "id": 207,
+      "text": "Thank",
+      "start": 75.74,
+      "end": 76.02
+    },
+    {
+      "id": 208,
+      "text": "you,",
+      "start": 76,
+      "end": 76.16
+    },
+    {
+      "id": 209,
+      "text": "Nancy.",
+      "start": 76.12,
+      "end": 76.4
+    },
+    {
+      "id": 210,
+      "text": "Good",
+      "start": 76.44,
+      "end": 76.66
+    },
+    {
+      "id": 211,
+      "text": "afternoon",
+      "start": 76.64,
+      "end": 77
+    },
+    {
+      "id": 212,
+      "text": "and",
+      "start": 76.96,
+      "end": 77.16
+    },
+    {
+      "id": 213,
+      "text": "thanks",
+      "start": 77.12,
+      "end": 77.34
+    },
+    {
+      "id": 214,
+      "text": "to",
+      "start": 77.3,
+      "end": 77.44
+    },
+    {
+      "id": 215,
+      "text": "all",
+      "start": 77.4,
+      "end": 77.6
+    },
+    {
+      "id": 216,
+      "text": "of",
+      "start": 77.56,
+      "end": 77.68
+    },
+    {
+      "id": 217,
+      "text": "you",
+      "start": 77.64,
+      "end": 77.78
+    },
+    {
+      "id": 218,
+      "text": "for",
+      "start": 77.76,
+      "end": 77.92
+    },
+    {
+      "id": 219,
+      "text": "joining",
+      "start": 77.88,
+      "end": 78.18
+    },
+    {
+      "id": 220,
+      "text": "us,",
+      "start": 78.16,
+      "end": 78.24
+    },
+    {
+      "id": 221,
+      "text": "especially",
+      "start": 79.76,
+      "end": 80.28
+    },
+    {
+      "id": 222,
+      "text": "those",
+      "start": 80.24,
+      "end": 80.48
+    },
+    {
+      "id": 223,
+      "text": "of",
+      "start": 80.44,
+      "end": 80.54
+    },
+    {
+      "id": 224,
+      "text": "you",
+      "start": 80.54,
+      "end": 80.68
+    },
+    {
+      "id": 225,
+      "text": "listening",
+      "start": 80.64,
+      "end": 81
+    },
+    {
+      "id": 226,
+      "text": "in",
+      "start": 80.96,
+      "end": 81.06
+    },
+    {
+      "id": 227,
+      "text": "on",
+      "start": 81.04,
+      "end": 81.16
+    },
+    {
+      "id": 228,
+      "text": "our",
+      "start": 81.14,
+      "end": 81.3
+    },
+    {
+      "id": 229,
+      "text": "new",
+      "start": 81.26,
+      "end": 81.42
+    },
+    {
+      "id": 230,
+      "text": "noise",
+      "start": 81.38,
+      "end": 81.64
+    },
+    {
+      "id": 231,
+      "text": "cancelling",
+      "start": 81.66,
+      "end": 82.06
+    },
+    {
+      "id": 232,
+      "text": "air",
+      "start": 82.04,
+      "end": 82.24
+    },
+    {
+      "id": 233,
+      "text": "POD",
+      "start": 82.22,
+      "end": 82.38
+    },
+    {
+      "id": 234,
+      "text": "Pro",
+      "start": 82.5,
+      "end": 82.68
+    },
+    {
+      "id": 235,
+      "text": "which",
+      "start": 83,
+      "end": 83.18
+    },
+    {
+      "id": 236,
+      "text": "are",
+      "start": 83.16,
+      "end": 83.3
+    },
+    {
+      "id": 237,
+      "text": "available",
+      "start": 83.26,
+      "end": 83.58
+    },
+    {
+      "id": 238,
+      "text": "beginning",
+      "start": 83.54,
+      "end": 83.94
+    },
+    {
+      "id": 239,
+      "text": "today.",
+      "start": 83.9,
+      "end": 84.18
+    },
+    {
+      "id": 240,
+      "text": "This",
+      "start": 86.78,
+      "end": 87.74
+    },
+    {
+      "id": 241,
+      "text": "was",
+      "start": 87.7,
+      "end": 87.88
+    },
+    {
+      "id": 242,
+      "text": "Apple's",
+      "start": 87.84,
+      "end": 88.24
+    },
+    {
+      "id": 243,
+      "text": "highest",
+      "start": 88.3,
+      "end": 88.6
+    },
+    {
+      "id": 244,
+      "text": "revenue",
+      "start": 88.62,
+      "end": 88.92
+    },
+    {
+      "id": 245,
+      "text": "in",
+      "start": 88.88,
+      "end": 89.06
+    },
+    {
+      "id": 246,
+      "text": "a",
+      "start": 89.02,
+      "end": 89.1
+    },
+    {
+      "id": 247,
+      "text": "September",
+      "start": 89.06,
+      "end": 89.46
+    },
+    {
+      "id": 248,
+      "text": "quarter",
+      "start": 89.44,
+      "end": 89.72
+    },
+    {
+      "id": 249,
+      "text": "ever.",
+      "start": 89.76,
+      "end": 89.96
+    },
+    {
+      "id": 250,
+      "text": "And",
+      "start": 91.88,
+      "end": 92.1
+    },
+    {
+      "id": 251,
+      "text": "I",
+      "start": 92.06,
+      "end": 92.14
+    },
+    {
+      "id": 252,
+      "text": "want",
+      "start": 92.12,
+      "end": 92.28
+    },
+    {
+      "id": 253,
+      "text": "to",
+      "start": 92.24,
+      "end": 92.38
+    },
+    {
+      "id": 254,
+      "text": "take",
+      "start": 92.34,
+      "end": 92.52
+    },
+    {
+      "id": 255,
+      "text": "you",
+      "start": 92.48,
+      "end": 92.62
+    },
+    {
+      "id": 256,
+      "text": "through",
+      "start": 92.58,
+      "end": 92.82
+    },
+    {
+      "id": 257,
+      "text": "some",
+      "start": 92.8,
+      "end": 92.96
+    },
+    {
+      "id": 258,
+      "text": "of",
+      "start": 92.92,
+      "end": 93.04
+    },
+    {
+      "id": 259,
+      "text": "the",
+      "start": 93,
+      "end": 93.12
+    },
+    {
+      "id": 260,
+      "text": "highlights",
+      "start": 93.08,
+      "end": 93.42
+    },
+    {
+      "id": 261,
+      "text": "before",
+      "start": 93.38,
+      "end": 93.62
+    },
+    {
+      "id": 262,
+      "text": "we",
+      "start": 93.58,
+      "end": 93.7
+    },
+    {
+      "id": 263,
+      "text": "get",
+      "start": 93.66,
+      "end": 93.82
+    },
+    {
+      "id": 264,
+      "text": "into",
+      "start": 93.78,
+      "end": 93.96
+    },
+    {
+      "id": 265,
+      "text": "greater",
+      "start": 93.94,
+      "end": 94.22
+    },
+    {
+      "id": 266,
+      "text": "detail",
+      "start": 94.2,
+      "end": 94.48
+    },
+    {
+      "id": 267,
+      "text": "on",
+      "start": 94.44,
+      "end": 94.74
+    },
+    {
+      "id": 268,
+      "text": "the",
+      "start": 94.7,
+      "end": 94.88
+    },
+    {
+      "id": 269,
+      "text": "conclusion",
+      "start": 94.84,
+      "end": 95.26
+    },
+    {
+      "id": 270,
+      "text": "of",
+      "start": 95.24,
+      "end": 95.42
+    },
+    {
+      "id": 271,
+      "text": "a",
+      "start": 95.38,
+      "end": 95.46
+    },
+    {
+      "id": 272,
+      "text": "remarkable",
+      "start": 95.42,
+      "end": 95.88
+    },
+    {
+      "id": 273,
+      "text": "fiscal",
+      "start": 98.16,
+      "end": 98.52
+    },
+    {
+      "id": 274,
+      "text": "2,019",
+      "start": 98.5,
+      "end": 99.26
+    },
+    {
+      "id": 275,
+      "text": "for",
+      "start": 99.24,
+      "end": 99.4
+    },
+    {
+      "id": 276,
+      "text": "Apple,",
+      "start": 99.38,
+      "end": 99.62
+    },
+    {
+      "id": 277,
+      "text": "we.",
+      "start": 101.1,
+      "end": 101.18
+    }
+  ],
+  "paragraphs": [
+    {
+      "end": 101.18,
+      "start": 0,
+      "speaker": "SPEAKER_A"
+    }
+  ]
+}

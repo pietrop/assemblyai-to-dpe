@@ -1,11 +1,21 @@
 {
-  "name": "assemblyai-to-dpe",
+  "name": "@pietrop/assemblyai-to-dpe",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
   "scripts": {
+    "publish:public": "npm publish --access public",
+    "publish:dry:run": "npm publish --dry-run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Pietro Passarelli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pietrop/assemblyai-to-dpe/issues"
+  },
+  "homepage": "https://github.com/pietrop/assemblyai-to-dpe",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pietrop/assemblyai-to-dpe.git"
+  }
 }

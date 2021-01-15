@@ -3,3 +3,5 @@ sample/
 src/example-usage.js
 CODE_OF_CONDUCT.md      
 CONTRIBUTING.md 
+.github
+.nvmrc  
