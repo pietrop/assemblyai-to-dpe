@@ -34,9 +34,9 @@ npm install @pietrop/assemblyai-to-dpe
 const convert = require('@pietrop/assemblyai-to-dpe');
 const sampleJson = require('./sample/assemblyai-speakers-sample.json');
 
-const json = convert(sampleJson);
+const result = convert(sampleJson);
 
-console.log(json);
+console.log(result);
 ```
 
 <details>
